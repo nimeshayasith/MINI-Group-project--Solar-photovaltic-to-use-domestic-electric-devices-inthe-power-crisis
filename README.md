@@ -1,0 +1,2 @@
+# MINI-Group-project--Solar-photovaltic-to-use-domestic-electric-devices-inthe-power-crisis
+Our project focuses on applying mechanical engineering principles to solar photovoltaic systems, enabling the use of domestic electric devices during power crises. This isn't an innovation, but it's a significant idea that we believe can greatly benefit society, especially in a developing country like ours.
